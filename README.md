@@ -43,5 +43,6 @@ message saying if the product is in stock or not,
 You will also be prompted an input asking if you want to keep shopping.
 
 
+<img width="224" alt="screen shot 2018-10-31 at 4 22 51 pm" src="https://user-images.githubusercontent.com/40408849/47819723-5a1c4580-dd29-11e8-9d0e-9e1d0fd088ad.png">
 
 
