@@ -34,5 +34,6 @@ Once you specify how many you would like to purchase you will be
 prompted a message saying if the product is in stock or not, 
  as well as a message displaying your total $. **Example Below.**
  
+ <img width="555" alt="screen shot 2018-10-31 at 3 50 58 pm" src="https://user-images.githubusercontent.com/40408849/47818501-15db7600-dd26-11e8-8b0b-f93a73e3423f.png">
  
- 
+**^Example^**
