@@ -12,8 +12,7 @@ what product you would like to buy, every product has a unique ID.
 Based on the product you would like to purchase, all you have to do
 is type in the products ID in the input.. **Example Below.**
 
-
-<img width="600" alt="screen shot 2018-10-31 at 3 35 39 pm" src="https://user-images.githubusercontent.com/40408849/47817046-a912ac80-dd22-11e8-8066-68cf380071b7.png">
+<img width="598" alt="screen shot 2018-10-31 at 3 39 00 pm" src="https://user-images.githubusercontent.com/40408849/47817232-29d1a880-dd23-11e8-8107-f021ddc31899.png">
 
 
 **^Example^**
