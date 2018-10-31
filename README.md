@@ -30,7 +30,7 @@ you would like to purchase.. **Example Below.**
 **^Example^**
 
 
-Once you specify how many unit of that product
+Once you specify how many units of the product
 you would like to purchase you will be prompted a
 message saying if the product is in stock or not, 
  as well as a message displaying your total $. **Example Below.**
