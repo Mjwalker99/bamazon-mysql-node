@@ -1,7 +1,7 @@
-// Require mysql and inquirer - maybe console.table???
+
 var mysql = require('mysql');
 var inquirer = require('inquirer');
-// var console_table = require('console.table');
+
 
 // Connect to mysql db
 var connection = mysql.createConnection({
@@ -12,7 +12,7 @@ var connection = mysql.createConnection({
     user: "root",
 
     // Your password
-    password: "Cardinals99",
+    password: "",
     database: "bamazonDB"
 });
 
