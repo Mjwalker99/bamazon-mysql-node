@@ -37,6 +37,11 @@ message saying if the product is in stock or not,
  
  <img width="555" alt="screen shot 2018-10-31 at 3 50 58 pm" src="https://user-images.githubusercontent.com/40408849/47818501-15db7600-dd26-11e8-8b0b-f93a73e3423f.png">
  
-**^Example^** You will also be prompted an input asking if you want to keep shopping.1
+**^Example^** 
+
+
+You will also be prompted an input asking if you want to keep shopping.
+
+
 
 
