@@ -45,4 +45,10 @@ You will also be prompted an input asking if you want to keep shopping.
 
 <img width="300" alt="screen shot 2018-10-31 at 4 22 51 pm" src="https://user-images.githubusercontent.com/40408849/47819723-5a1c4580-dd29-11e8-9d0e-9e1d0fd088ad.png">
 
+If you input **"Y"** the app will restart with updated quanity.
+If you input **"N"** a message will appear that will say thank you for shopping Bamazon.
 
+Side notes: if you want to purchase an item and specify how many units 
+you would like to buy, but the quanity is insufficient a message will appear.
+
+If you input an invalid ID an error message will appear.
