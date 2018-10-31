@@ -16,3 +16,13 @@ is type in the products ID in the input.. **Example Below.**
 
 
 **^Example^**
+
+
+After you input the product ID, a prompt will
+appear asking you how many units of that product
+you would like to purchase.. **Example Below.**
+
+
+
+
+**^Example^**
