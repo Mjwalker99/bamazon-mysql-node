@@ -23,6 +23,7 @@ appear asking you how many units of that product
 you would like to purchase.. **Example Below.**
 
 
+<img width="552" alt="screen shot 2018-10-31 at 3 41 27 pm" src="https://user-images.githubusercontent.com/40408849/47817539-e3c91480-dd23-11e8-93fc-0c589de46765.png">
 
 
 **^Example^**
