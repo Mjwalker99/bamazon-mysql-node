@@ -55,3 +55,5 @@ If you input an invalid ID an error message will appear.
 
 <img width="319" alt="screen shot 2018-11-02 at 4 25 42 pm" src="https://user-images.githubusercontent.com/40408849/47941408-08f08b00-debc-11e8-9c62-6b588a07bcff.png">
 
+<img width="322" alt="screen shot 2018-11-02 at 4 25 12 pm" src="https://user-images.githubusercontent.com/40408849/47941429-1f96e200-debc-11e8-9762-b89bc1a46fd3.png">
+
