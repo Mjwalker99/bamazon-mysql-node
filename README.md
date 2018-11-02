@@ -52,3 +52,6 @@ Side notes: if you want to purchase an item and specify how many units
 you would like to buy, but the quanity is insufficient a message will appear.
 
 If you input an invalid ID an error message will appear.
+
+<img width="319" alt="screen shot 2018-11-02 at 4 25 42 pm" src="https://user-images.githubusercontent.com/40408849/47941408-08f08b00-debc-11e8-9c62-6b588a07bcff.png">
+
