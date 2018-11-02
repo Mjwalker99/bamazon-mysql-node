@@ -1,5 +1,6 @@
 # bamazon-mysql-node
 
+Video link to the app in action!: https://youtu.be/4UFu-QztjOo
 
 **Bamazon** is a node application where you can buy items
 from a list of products, we will use **MySQL Database** to populate 
